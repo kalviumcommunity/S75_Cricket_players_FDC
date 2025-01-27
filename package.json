@@ -1,0 +1,11 @@
+{
+  "name": "s75_cricket_players_fdc",
+  "version": "1.0.0",
+  "description": "This is your first repository\r Cricket players from different Countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
